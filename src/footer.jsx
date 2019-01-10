@@ -3,8 +3,8 @@ import { defaultCoreCipherList } from "constants";
 
 const Footer = () => {
     return (
-        <div class="border-t border-smoke px-8 py-4">
-            <div class="flex justify-center text-grey">
+        <div class="footer-wrapper">
+            <div class="footer-content">
                     <h1> Made with React</h1>
             </div>
         </div>
